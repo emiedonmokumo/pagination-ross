@@ -4,7 +4,9 @@ Un componente de paginación para React, fácil de usar y personalizable.
 
 ## Instalación
 
+```bash
 npm install pagination-ross
+```
 
 ## Uso básico
 
@@ -23,8 +25,10 @@ function App() {
 
 ## 🔗 Demo y ejemplo
 
-- 💻 Demo en vivo: [https://pagination-ross-demo.pages.dev/](https://pagination-ross-demo.pages.dev/)
-- 📁 Código del demo: [https://github.com/Ross1736/pagination-ross-demo.git](https://github.com/Ross1736/pagination-ross-demo.git)
+<ul>
+  <li>💻 Demo en vivo: <a href="https://pagination-ross-demo.pages.dev/" target="_blank">https://pagination-ross-demo.pages.dev/</a></li>
+  <li>📁 Código del demo: <a href="https://github.com/Ross1736/pagination-ross-demo.git" target="_blank">https://github.com/Ross1736/pagination-ross-demo.git</a></li>
+</ul>
 
 ![Demo visual](./src/img/img.png)
 
