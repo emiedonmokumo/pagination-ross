@@ -58,7 +58,7 @@ interface PaginationProps {
 
   /**
    * Clase CSS para los ítems que muestran puntos suspensivos ("...").
-   */
+   */ 
   ellipsisClassName?: string;
 }
 
