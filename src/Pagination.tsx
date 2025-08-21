@@ -79,6 +79,7 @@ function Pagination({
     <div className={[className].filter(Boolean).join(" ")} style={style}>
       {currentPage > 1 && (
         <button
+          aria-label="Previous page"
           className={buttonClassName}
           onClick={() => onPageChange?.(currentPage - 1)}
         >
@@ -136,6 +137,7 @@ function Pagination({
 
       {currentPage < totalPages && (
         <button
+          aria-label="Next page"
           className={buttonClassName}
           onClick={() => onPageChange?.(currentPage + 1)}
         >
